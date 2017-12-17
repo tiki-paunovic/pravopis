@@ -1,0 +1,30 @@
+[
+  {"ispravno":"auto-put",
+  "neispravno":"auto put",
+  "pojasnjenje":"Prefiksoid auto kad znači automobil i automobilski piše se sa crticom: auto-mehaničar, auto- električar, auto-lakirer, auto-limar, auto-stoperka, auto-delovi, auto-lak, auto-kozmetika, auto-prikolica, auto-oprema, auto-alarm, auto-prevoznik, auto-taksi, auto-škola, auto-moto savez, Auto-komanda. Spojeno je samo u rečima autodrom i autostrada."
+  },
+  {"ispravno":"autogol",
+  "neispravno":"auto gol",
+  "pojasnjenje":"Prefiksoid auto piše se spojeno kad znači samo, sopstveni: autoanaliza, autobiografija, autobiograf, autoportret, autosugestija, autokefalnost, autokrat, automat, automatizam, automobil, autoimunitet, autocenzura."
+  },
+  {"ispravno":"avion",
+  "neispravno":"avijon",
+  "pojasnjenje":"Od latinskog avis (ptica) i francuskog avion. J se ne piše između i i o osim kada je deo osnove: kamion, stadion, radionica, nosioci, milion, pion, šampion, lampion, pionir, fioka, Silvio, Mario, Violeta."
+  },
+  {"ispravno":"aero-klub",
+  "neispravno":"aeroklub",
+  "pojasnjenje":"Prefiksoid aero piše se sastavljeno kao prvi deo složenica kad znači vazdušni: aerodrom, aeroplan, aerodinamika, aerostatika, aerogeografija, aerosol, aerologija, aerobik. Sa crticom se piše u rečima u kojima znači vazduhoplovni: aero-bomba, aero-miting, aero-zagađenje, aero-elektrana, aero-nautika, aero-transport i aero-klub. U Pravopisnom rečniku aero je u oba slučaja spojeno."
+},
+{"ispravno":"bacil",
+"neispravno":"bakcil",
+"pojasnjenje":"Latinski bacillus znači štapić. To su bakterije koje imaju oblik štapića."
+},
+{"ispravno":"nevažno",
+"neispravno":"ne važno",
+"pojasnjenje":"Ne se piše sastavljeno sa pridevima: nevažno je ono što nije važno, nebitno, sporedno."
+},
+{"ispravno":"Nevenki",
+"neispravno":"Nevenci",
+"pojasnjenje":"U dativu i lokativu ličnih imena na ka i ga nije izvršena sibilarizacija, promena zadnjonepčanih k,g,h ispred i, u zubne c,z,s."
+}
+]
