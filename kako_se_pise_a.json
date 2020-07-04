@@ -1,30 +1,268 @@
 [
-  {"ispravno":"auto-put",
-  "neispravno":"auto put",
-  "pojasnjenje":"Prefiksoid auto kad znači automobil i automobilski piše se sa crticom: auto-mehaničar, auto- električar, auto-lakirer, auto-limar, auto-stoperka, auto-delovi, auto-lak, auto-kozmetika, auto-prikolica, auto-oprema, auto-alarm, auto-prevoznik, auto-taksi, auto-škola, auto-moto savez, Auto-komanda. Spojeno je samo u rečima autodrom i autostrada."
+  {
+    "ispravno": "auto-put",
+    "neispravno": "auto put",
+    "ispravno_cyr": "ауто-пут",
+    "neispravno_cyr": "ауто пут",
+    "pojasnjenje": ""
   },
-  {"ispravno":"autogol",
-  "neispravno":"auto gol",
-  "pojasnjenje":"Prefiksoid auto piše se spojeno kad znači samo, sopstveni: autoanaliza, autobiografija, autobiograf, autoportret, autosugestija, autokefalnost, autokrat, automat, automatizam, automobil, autoimunitet, autocenzura."
+  {
+    "ispravno": "autogol",
+    "neispravno": "auto gol",
+    "ispravno_cyr": "аутогол",
+    "neispravno_cyr": "ауто гол",
+    "pojasnjenje": ""
   },
-  {"ispravno":"avion",
-  "neispravno":"avijon",
-  "pojasnjenje":"Od latinskog avis (ptica) i francuskog avion. J se ne piše između i i o osim kada je deo osnove: kamion, stadion, radionica, nosioci, milion, pion, šampion, lampion, pionir, fioka, Silvio, Mario, Violeta."
+  {
+    "ispravno": "avion",
+    "neispravno": "avijon",
+    "ispravno_cyr": "авион",
+    "neispravno_cyr": "авијон",
+    "pojasnjenje": ""
   },
-  {"ispravno":"aero-klub",
-  "neispravno":"aeroklub",
-  "pojasnjenje":"Prefiksoid aero piše se sastavljeno kao prvi deo složenica kad znači vazdušni: aerodrom, aeroplan, aerodinamika, aerostatika, aerogeografija, aerosol, aerologija, aerobik. Sa crticom se piše u rečima u kojima znači vazduhoplovni: aero-bomba, aero-miting, aero-zagađenje, aero-elektrana, aero-nautika, aero-transport i aero-klub. U Pravopisnom rečniku aero je u oba slučaja spojeno."
-},
-{"ispravno":"bacil",
-"neispravno":"bakcil",
-"pojasnjenje":"Latinski bacillus znači štapić. To su bakterije koje imaju oblik štapića."
-},
-{"ispravno":"nevažno",
-"neispravno":"ne važno",
-"pojasnjenje":"Ne se piše sastavljeno sa pridevima: nevažno je ono što nije važno, nebitno, sporedno."
-},
-{"ispravno":"Nevenki",
-"neispravno":"Nevenci",
-"pojasnjenje":"U dativu i lokativu ličnih imena na ka i ga nije izvršena sibilarizacija, promena zadnjonepčanih k,g,h ispred i, u zubne c,z,s."
-}
+  {
+    "ispravno": "bacil",
+    "neispravno": "bakcil",
+    "ispravno_cyr": "бацил",
+    "neispravno_cyr": "бакцил",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "nevažno",
+    "neispravno": "ne važno",
+    "ispravno_cyr": "неважно",
+    "neispravno_cyr": "не важно",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ne znam",
+    "neispravno": "neznam",
+    "ispravno_cyr": "не знам",
+    "neispravno_cyr": "незнам",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "sa mnom",
+    "neispravno": "samnom",
+    "ispravno_cyr": "са мном",
+    "neispravno_cyr": "самном",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "htio",
+    "neispravno": "htjeo",
+    "ispravno_cyr": "хтио",
+    "neispravno_cyr": "хтјео",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "nemoj",
+    "neispravno": "ne moj",
+    "ispravno_cyr": "немој",
+    "neispravno_cyr": "не мој",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ne vjerujem",
+    "neispravno": "nevjerujem",
+    "ispravno_cyr": "не вјерујем",
+    "neispravno_cyr": "невјерујем",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "čestitka čestitki",
+    "neispravno": "čestitka čestitci",
+    "ispravno_cyr": "честитка честитки",
+    "neispravno_cyr": "честитка честитци",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "sumnja",
+    "neispravno": "sumlja",
+    "ispravno_cyr": "сумња",
+    "neispravno_cyr": "сумља",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "asfalt",
+    "neispravno": "asvalt",
+    "ispravno_cyr": "асфалт",
+    "neispravno_cyr": "асвалт",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "dobojski",
+    "neispravno": "Dobojski",
+    "ispravno_cyr": "добојски",
+    "neispravno_cyr": "Добојски",
+    "pojasnjenje": "Присвојни придјеви који се завршавају на -ски,-шки и -чки пишу се малим словом"
+  },
+  {
+    "ispravno": "banjalučki",
+    "neispravno": "Banjalučki",
+    "ispravno_cyr": "бањалучки",
+    "neispravno_cyr": "Бањалучки",
+    "pojasnjenje": "Присвојни придјеви који се завршавају на -ски,-шки и -чки пишу се малим словом"
+  },
+  {
+    "ispravno": "milion",
+    "neispravno": "milijon",
+    "ispravno_cyr": "милион",
+    "neispravno_cyr": "милијон",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "radio",
+    "neispravno": "radijo",
+    "ispravno_cyr": "радио",
+    "neispravno_cyr": "радијо",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "bio",
+    "neispravno": "bijo",
+    "ispravno_cyr": "био",
+    "neispravno_cyr": "бијо",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "radio",
+    "neispravno": "radijo",
+    "ispravno_cyr": "радио",
+    "neispravno_cyr": "радијо",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Miličin",
+    "neispravno": "Milicin",
+    "ispravno_cyr": "Миличин",
+    "neispravno_cyr": "Милицин",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "vršilac",
+    "neispravno": "vršioc",
+    "ispravno_cyr": "вршилац",
+    "neispravno_cyr": "вршиоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "vladalac",
+    "neispravno": "vladaoc",
+    "ispravno_cyr": "владалац",
+    "neispravno_cyr": "владаоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Drugi svjetski rat",
+    "neispravno": "drugi svjetski rat",
+    "ispravno_cyr": "Други свјетски рат",
+    "neispravno_cyr": "други свјетски рат",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "radio",
+    "neispravno": "radijo",
+    "ispravno_cyr": "радио",
+    "neispravno_cyr": "радијо",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "htio",
+    "neispravno": "htjeo",
+    "ispravno_cyr": "хтио",
+    "neispravno_cyr": "хтјео",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "visok viši najviši",
+    "neispravno": "visok višlji najvišlji",
+    "ispravno_cyr": "висок виши највиши",
+    "neispravno_cyr": "висок вишљи највишљи",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "strog stroži",
+    "neispravno": "strog strožiji",
+    "ispravno_cyr": "строг строжи",
+    "neispravno_cyr": "строг строжији",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "i te kako",
+    "neispravno": "itekako",
+    "ispravno_cyr": "и те како",
+    "neispravno_cyr": "итекако",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "preda mnom",
+    "neispravno": "predamnom",
+    "ispravno_cyr": "преда мном",
+    "neispravno_cyr": "предамном",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "imejl mejl imejl-adresa",
+    "neispravno": "i mejl imejl adresa",
+    "ispravno_cyr": "имејл мејл имејл-адреса",
+    "neispravno_cyr": "и мејл имејл-адреса",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "40-časovna",
+    "neispravno": "40 časovna",
+    "ispravno_cyr": "40-часовна",
+    "neispravno_cyr": "40 часовна",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Srećni božićni i novogodišnji praznici",
+    "neispravno": "Srećni Boćićni i Novogodišnji praznici",
+    "ispravno_cyr": "Срећни божићни и новогодишњи празници",
+    "neispravno_cyr": "Срећни Божићни и Новогодишњи празници",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "izviniti se",
+    "neispravno": "izvinuti se",
+    "ispravno_cyr": "Извинити се",
+    "neispravno_cyr": "извинути се",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "inženjer",
+    "neispravno": "inžinjer",
+    "ispravno_cyr": "инжењер",
+    "neispravno_cyr": "инжињер",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "šeststo",
+    "neispravno": "šesto",
+    "ispravno_cyr": "шестсто",
+    "neispravno_cyr": "шесто",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "faliti nedostajati",
+    "neispravno": "hvaliti nedostajati",
+    "ispravno_cyr": "фалити недостајати",
+    "neispravno_cyr": "хвалити недостајати",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Đorđev",
+    "neispravno": "Đorđetov",
+    "ispravno_cyr": "Ђорђев",
+    "neispravno_cyr": "Ђорђетов",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "neću",
+    "neispravno": "ne ću",
+    "ispravno_cyr": "нећу",
+    "neispravno_cyr": "не ћу",
+    "pojasnjenje": ""
+  }
 ]
