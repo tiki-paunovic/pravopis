@@ -310,10 +310,10 @@
   },
   {
 
-    "ispravno": "čestitka čestitki",
-    "neispravno": "čestitka čestitci",
-    "ispravno_cyr": "частитка честитки",
-    "neispravno_cyr": "честитка честитки",
+    "ispravno": "čestitki",
+    "neispravno": "čestitci",
+    "ispravno_cyr": "честитки",
+    "neispravno_cyr": "честитки",
     "pojasnjenje": ""
   },
   {
@@ -514,7 +514,7 @@
   },
   {
     "ispravno": "činilac",
-    "neispravno": "činoc",
+    "neispravno": "činioc",
     "ispravno_cyr": "чинилац",
     "neispravno_cyr": "чиниоц",
     "pojasnjenje": ""
@@ -535,7 +535,7 @@
   },
   {
     "ispravno": "ćurci",
-    "neispravno": "ćurki ",
+    "neispravno": "ćurki",
     "ispravno_cyr": "ћурци",
     "neispravno_cyr": "ћурки ",
     "pojasnjenje": ""
