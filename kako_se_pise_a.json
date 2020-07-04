@@ -264,5 +264,279 @@
     "ispravno_cyr": "нећу",
     "neispravno_cyr": "не ћу",
     "pojasnjenje": ""
-  }
+  },
+  [
+  {
+    "ispravno": "ponekad",
+    "neispravno": "po nekad",
+    "ispravno_cyr": "понекад",
+    "neispravno_cyr": "по некад",
+    "pojasnjenje": "" 
+  },
+  {
+    "ispravno": "u redu",
+    "neispravno": "uredu",
+    "ispravno_cyr": "у реду",
+    "neispravno_cyr": "уреду",
+    "pojasnjenje": ""  
+  },
+  {
+    "ispravno": "otprilike",
+    "neispravno": "odprilike",
+    "ispravno_cyr": "отприлике",
+    "neispravno_cyr": "одприлике",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "učionica",
+    "neispravno": "učiona",
+    "ispravno_cyr": "учионица",
+    "neispravno_cyr": "учиона",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "otkako",
+    "neispravno": "odkako",
+    "ispravno_cyr": "откако",
+    "neispravno_cyr": "одкако",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "majica",
+    "neispravno": "maica",
+    "ispravno_cyr": "мајица",
+    "neispravno_cyr": "маица",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "čestitka čestitki",
+    "neispravno": "čestitka čestitci",
+    "ispravno_cyr": "частитка честитки",
+    "neispravno_cyr": "честитка честитки",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "izviniti se u značenju tražiti oproštaj",
+    "neispravno": "izvinuti se",
+    "ispravno_cyr": "извинити се у значењу тражити опшроштај",
+    "neispravno_cyr": "извинути се",
+    "pojasnjenje": "Izviniti se u značenju tražiti oproštaj, ali izvinuti se u značenju saviti se, izviti se"
+  },
+  {
+
+    "ispravno": "dijete",
+    "neispravno": "djete",
+    "ispravno_cyr": "дијете",
+    "neispravno_cyr": "дјете",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "s poštovanjem",
+    "neispravno": "sa poštovanjem",
+    "ispravno_cyr": "с поштовањем",
+    "neispravno_cyr": "са поштовањем",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "ansambl ansambala",
+    "neispravno": "amsambl amsambala",
+    "ispravno_cyr": "ансамбл ансамбала",
+    "neispravno_cyr": "амсамбл ансамбала",
+  },
+  {
+
+    "ispravno": "antitalenat",
+    "neispravno": "anti talenat",
+    "ispravno_cyr": "антиталенат",
+    "neispravno_cyr": "анти таленат",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "antialkoholičar",
+    "neispravno": "anti alkoholičar",
+    "ispravno_cyr": "антиалкохоличар",
+    "neispravno_cyr": "анти алкохоличар",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "slušalac",
+    "neispravno": "slušaoc",
+    "ispravno_cyr": "слушалац",
+    "neispravno_cyr": "слушаоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "gledalac",
+    "neispravno": "gledaoc",
+    "ispravno_cyr": "гледалац",
+    "neispravno_cyr": "гледаоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Arktik",
+    "neispravno": "Artik",
+    "ispravno_cyr": "Арктик",
+    "neispravno_cyr": "Артик",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "atmosfera",
+    "neispravno": "atmosvera",
+    "ispravno_cyr": "атмосфера",
+    "neispravno_cyr": "атмосвера",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "auto-trke",
+    "neispravno": "autotrke",
+    "ispravno_cyr": "ауто-трке",
+    "neispravno_cyr": "аутотрке",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "auto-servis",
+    "neispravno": "autoservis",
+    "ispravno_cyr": "ауто-сервис",
+    "neispravno_cyr": "аутосервис",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "auto-put",
+    "neispravno": "autoput",
+    "ispravno_cyr": "ауто-пут",
+    "neispravno_cyr": "аутопут",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "auto-škola",
+    "neispravno": "autoškola",
+    "ispravno_cyr": "ауто-школа",
+    "neispravno_cyr": "аутошкола",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "bacil",
+    "neispravno": "bakcil",
+    "ispravno_cyr": "бацил",
+    "neispravno_cyr": "бакцил",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Bangkok bangkočki",
+    "neispravno": "Bankok bankoški",
+    "ispravno_cyr": "Бангкок бангкочки",
+    "neispravno_cyr": "Банкок банкошки",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Badnji dan",
+    "neispravno": "Badnji Dan",
+    "ispravno_cyr": "Бадњи дан",
+    "neispravno_cyr": "Бадњи Дан",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "banka banci banaka",
+    "neispravno": "banka banki",
+    "ispravno_cyr": "банка банци банака",
+    "neispravno_cyr": "банка банки ",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "bombona",
+    "neispravno": "bonbona",
+    "ispravno_cyr": "бомбона
+    "neispravno_cyr": "бонбона",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "brže-bolje",
+    "neispravno": "brže bolje",
+    "ispravno_cyr": "брже-боље",
+    "neispravno_cyr": "брже боље",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "centimetar",
+    "neispravno": "cantimetar",
+    "ispravno_cyr": "центиметар",
+    "neispravno_cyr": "цантиметар",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "Ciganin",
+    "neispravno": "ciganin",
+    "ispravno_cyr": "Циганин",
+    "neispravno_cyr": "циганин",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "cigla gen.mn. cigala",
+    "neispravno": "cigla gen.mn. cigli",
+    "ispravno_cyr": "цигла ген.мн. цигала",
+    "neispravno_cyr": "цигла ген.мн. цигала",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "četiristo",
+    "neispravno": "četristo",
+    "ispravno_cyr": "четиристо",
+    "neispravno_cyr": "четристо",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "četvoro četvorica",
+    "neispravno": "četvero četverica",
+    "ispravno_cyr": "четворо четворица",
+    "neispravno_cyr": "четверо четверица",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "čitaća proba",
+    "neispravno": "čitajuća proba",
+    "ispravno_cyr": "читаћа проба",
+    "neispravno_cyr": "читајућа проба",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "činilac",
+    "neispravno": "činoc",
+    "ispravno_cyr": "чинилац",
+    "neispravno_cyr": "чиниоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "čitalac",
+    "neispravno": "čitaoc",
+    "ispravno_cyr": "читалац",
+    "neispravno_cyr": "читаоц",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ćevabdžinica",
+    "neispravno": "ćevapdžinica",
+    "ispravno_cyr": "ћевабџиница",
+    "neispravno_cyr": "ћевапџиница",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ćurka ćurki ćurci",
+    "neispravno": "ćurka ćurki ",
+    "ispravno_cyr": "ћурка ћурки ћурци",
+    "neispravno_cyr": "ћурка ћурки ",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ćuška ćušci",
+    "neispravno": "ćuška ćuški",
+    "ispravno_cyr": "ћушка ћушци",
+    "neispravno_cyr": "ћушка ћушки",
+    "pojasnjenje": ""
+  }  
 ]
