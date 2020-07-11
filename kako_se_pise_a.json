@@ -822,5 +822,279 @@
     "neispravno_cyr": "пречас",
     "pojasnjenje": ""
    
-   }  
+   },
+    {
+    "ispravno": "iščlaniti",
+    "neispravno": "isčlaniti",
+    "ispravno_cyr": "ишчланити",
+    "neispravno_cyr": "изчланити",
+    "pojasnjenje": ""   
+  },
+  {
+    "ispravno": "bečki",
+    "neispravno": "Bečki",
+    "ispravno_cyr": "бечки",
+    "neispravno_cyr": "Бечки",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "pariski",
+    "neispravno": "pariški",
+    "ispravno_cyr": "париски",
+    "neispravno_cyr": "паришки",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "pariska",
+    "neispravno": "pariška",
+    "ispravno_cyr": "париска",
+    "neispravno_cyr": "паришка",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "paradajz",
+    "neispravno": "paradajiz",
+    "ispravno_cyr": "парадајз",
+    "neispravno_cyr": "парадајиз",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "švedski",
+    "neispravno": "Švedski",
+    "ispravno_cyr": "шведски",
+    "neispravno_cyr": "Шведски",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "doći ću",
+    "neispravno": "doćiću",
+    "ispravno_cyr": "доћи ћу",
+    "neispravno_cyr": "доћићу",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "doći ćete",
+    "neispravno": "doćićete",
+    "ispravno_cyr": "доћи ћете",
+    "neispravno_cyr": "доћићете",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "u pravu",
+    "neispravno": "upravu",
+    "ispravno_cyr": "у праву",
+    "neispravno_cyr": "управу",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "Ja bih",
+    "neispravno": "Ja bi",
+    "ispravno_cyr": "Ја бих",
+    "neispravno_cyr": "Ја би",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "ići ćemo",
+    "neispravno": "ićićemo",
+    "ispravno_cyr": "ићи ћемо",
+    "neispravno_cyr": "ићићемо",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "bićemo",
+    "neispravno": "bitićemo",
+    "ispravno_cyr": "бићемо",
+    "neispravno_cyr": "битићемо",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "bićete",
+    "neispravno": "bitićete",
+    "ispravno_cyr": "бићете",
+    "neispravno_cyr": "битићете",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "s obzirom na",
+    "neispravno": "obzirom na",
+    "ispravno_cyr": "с обзиром на",
+    "neispravno_cyr": "обзиром на",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "svejedno",
+    "neispravno": "sve jedno",
+    "ispravno_cyr": "свеједно",
+    "neispravno_cyr": "све једно",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "poljubac poljupci",
+    "neispravno": "poljupac poljubci",
+    "ispravno_cyr": "пољубац пољупци",
+    "neispravno_cyr": "пољупац пољубци",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "trenuci",
+    "neispravno": "trenutci",
+    "ispravno_cyr": "тренуци",
+    "neispravno_cyr": "тренутци",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "najjeftiniji",
+    "neispravno": "najeftiniji",
+    "ispravno_cyr": "најјефтинији",
+    "neispravno_cyr": "најефтинији",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "najjasniji",
+    "neispravno": "najasniji",
+    "ispravno_cyr": "најјаснији",
+    "neispravno_cyr": "најаснији",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "najjači",
+    "neispravno": "najjači",
+    "ispravno_cyr": "најјачи",
+    "neispravno_cyr": "најјачи",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "tački",
+    "neispravno": "tačci",
+    "ispravno_cyr": "тачки",
+    "neispravno_cyr": "тачци",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "grešci",
+    "neispravno": "greški",
+    "ispravno_cyr": "грешци",
+    "neispravno_cyr": "грешки",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "pišući",
+    "neispravno": "pisajući",
+    "ispravno_cyr": "пишући",
+    "neispravno_cyr": "писајући",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "pilot-projekat",
+    "neispravno": "pilot projekat",
+    "ispravno_cyr": "пилот-пројекат",
+    "neispravno_cyr": "пилот пројекат",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "popij",
+    "neispravno": "popi",
+    "ispravno_cyr": "попиј",
+    "neispravno_cyr": "попи",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "ponekad",
+    "neispravno": "po nekad",
+    "ispravno_cyr": "понекад",
+    "neispravno_cyr": "по некад",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "dva-tri",
+    "neispravno": "dva tri",
+    "ispravno_cyr": "два-три",
+    "neispravno_cyr": "два три",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "neefikasan",
+    "neispravno": "ne efikasan",
+    "ispravno_cyr": "неефикасан",
+    "neispravno_cyr": "не ефикасан",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "nepismen",
+    "neispravno": "ne pismen",
+    "ispravno_cyr": "неписмен",
+    "neispravno_cyr": "не писмен",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "nevažeći",
+    "neispravno": "ne važeći",
+    "ispravno_cyr": "неважећи",
+    "neispravno_cyr": "не важећи",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "neplaćen",
+    "neispravno": "ne plaćen",
+    "ispravno_cyr": "неплаћен",
+    "neispravno_cyr": "не плаћен",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "voćki",
+    "neispravno": "voćci",
+    "ispravno_cyr": "воћки",
+    "neispravno_cyr": "воћци",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "novosadski",
+    "neispravno": "Novosadski",
+    "ispravno_cyr": "новосадски",
+    "neispravno_cyr": "Новосадски",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "viši",
+    "neispravno": "višlji",
+    "ispravno_cyr": "виши",
+    "neispravno_cyr": "вишљи",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "poželio",
+    "neispravno": "poželjeo",
+    "ispravno_cyr": "пожелио",
+    "neispravno_cyr": "пожељео",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "poželjela",
+    "neispravno": "poželila",
+    "ispravno_cyr": "пожељела",
+    "neispravno_cyr": "пожелила",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "maršruta",
+    "neispravno": "maršuta",
+    "ispravno_cyr": "маршрута",
+    "neispravno_cyr": "маршута",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "mastan",
+    "neispravno": "masan",
+    "ispravno_cyr": "мастан",
+    "neispravno_cyr": "масан",
+    "pojasnjenje": ""
+  }
 ]
