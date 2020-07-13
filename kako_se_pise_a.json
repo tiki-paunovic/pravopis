@@ -1096,5 +1096,272 @@
     "ispravno_cyr": "мастан",
     "neispravno_cyr": "масан",
     "pojasnjenje": ""
+  },
+    {
+    "ispravno": "cijeli",
+    "neispravno": "cjeli",
+    "ispravno_cyr": "цијели",
+    "neispravno_cyr": "цјели",
+    "pojasnjenje":"" 
+  },
+  {
+    "ispravno": "bijeli",
+    "neispravno": "bjeli",
+    "ispravno_cyr": "бијели",
+    "neispravno_cyr": "бјели",
+    "pojasnjenje":""  
+  },
+  {
+    "ispravno": "grijna sezona",
+    "neispravno": "",
+    "ispravno_cyr": "гријна сезона",
+    "neispravno_cyr": "",
+    "pojasnjenje": "Ијекавски исправно гријна, грејна је екавски облик"
+  },
+  {
+    "ispravno": "Sjedinjene Američke Države",
+    "neispravno": "Sjedinjene američke države",
+    "ispravno_cyr": "Сједињене Америчке Државе",
+    "neispravno_cyr": "Сједињене америчке државе",
+    "pojasnjenje":"" 
+  },
+  {
+    "ispravno": "grend slem",
+    "neispravno": "gren slem",
+    "ispravno_cyr": "гренд слем",
+    "neispravno_cyr": "грен слем",
+    "pojasnjenje":"" 
+  },
+  {
+
+    "ispravno": "grizen",
+    "neispravno": "grižen",
+    "ispravno_cyr": "гризен",
+    "neispravno_cyr": "грижен",
+    "pojasnjenje":"" 
+  },
+  {
+
+    "ispravno": "izgrizen",
+    "neispravno": "izgrižen",
+    "ispravno_cyr": "изгризен",
+    "neispravno_cyr": "изгрижен",
+    "pojasnjenje":""
+  },
+  {
+
+    "ispravno": "gubici",
+    "neispravno": "gubitci",
+    "ispravno_cyr": "губици",
+    "neispravno_cyr": "губитци",
+    "pojasnjenje": ""
+  },
+  {
+
+    "ispravno": "hranilac",
+    "neispravno": "hranioc",
+    "ispravno_cyr": "хранилац",
+    "neispravno_cyr": "храниоц",
+    "pojasnjenje":""
+  },
+  {
+
+    "ispravno": "Daničin",
+    "neispravno": "Danicin",
+    "ispravno_cyr": "Даничин",
+    "neispravno_cyr": "Даницин",
+    "pojasnjenje":""
+  },
+  {
+
+    "ispravno": "kraljičin",
+    "neispravno": "kraljicin",
+    "ispravno_cyr": "краљичин",
+    "neispravno_cyr": "краљицин",
+    "pojasnjenje":""
+  },
+  {
+
+    "ispravno": "vodič",
+    "neispravno": "vodić",
+    "ispravno_cyr": "водич",
+    "neispravno_cyr": "водић",
+    "pojasnjenje":""
+  },
+  {
+
+    "ispravno": "gonič",
+    "neispravno": "gonić",
+    "ispravno_cyr": "гонич",
+    "neispravno_cyr": "гонић",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "istorijski",
+    "neispravno": "istoriski",
+    "ispravno_cyr": "историјски",
+    "neispravno_cyr": "историски",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "televizijski",
+    "neispravno": "televiziski",
+    "ispravno_cyr": "телевизијски",
+    "neispravno_cyr": "телевизиски",
+    "pojasnjenje": ""
+  },
+  {
+    "ispravno": "injekcija",
+    "neispravno": "inekcija",
+    "ispravno_cyr": "инјекција",
+    "neispravno_cyr": "инекција",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "iškolovati",
+    "neispravno": "izškolovati",
+    "ispravno_cyr": "ишколовати",
+    "neispravno_cyr": "изшколовати",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "išunjati se",
+    "neispravno": "izšunjati se",
+    "ispravno_cyr": "ишуњати се",
+    "neispravno_cyr": "изшуњати се",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "Prvi svjetski rat",
+    "neispravno": "Prvi svjeski rat",
+    "ispravno_cyr": "Први свјетски рат",
+    "neispravno_cyr": "први свјетски рат",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "Sarajevski atentat",
+    "neispravno": "sarajevski atentan",
+    "ispravno_cyr": "Сарајевски атентат",
+    "neispravno_cyr": "сарајевски атентат",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "izvezen",
+    "neispravno": "izvežen",
+    "ispravno_cyr": "извезен",
+    "neispravno_cyr": "извежен",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "izvršilac",
+    "neispravno": "izvršioc",
+    "ispravno_cyr": "извршилац",
+    "neispravno_cyr": "извршиоц",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "jednoiposobni stan",
+    "neispravno": "jedno i po sobni stan",
+    "ispravno_cyr": "једноипособни стан",
+    "neispravno_cyr": "једно и по собни стан",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "jednoipogodišnje",
+    "neispravno": "jedno i po godišnje",
+    "ispravno_cyr": "једноипогодишње",
+    "neispravno_cyr": "једно и по годишње",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "je li",
+    "neispravno": "jeli",
+    "ispravno_cyr": "је ли",
+    "neispravno_cyr": "јели",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "kaiš",
+    "neispravno": "kajiš",
+    "ispravno_cyr": "каиш",
+    "neispravno_cyr": "кајиш",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "katolikinja",
+    "neispravno": "katolkinja",
+    "ispravno_cyr": "католикиња",
+    "neispravno_cyr": "католкиња",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "klima-uređaj",
+    "neispravno": "klima uređaj",
+    "ispravno_cyr": "клима-уређај",
+    "neispravno_cyr": "клима уређај",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "kompjuter",
+    "neispravno": "kompijuter",
+    "ispravno_cyr": "компјутер",
+    "neispravno_cyr": "компијутер",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "kontrašpijunaža",
+    "neispravno": "kontra špijunaža",
+    "ispravno_cyr": "контрашпијунажа",
+    "neispravno_cyr": "контра шпијунажа",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "kontraobavještajni",
+    "neispravno": "kontra obavještajni",
+    "ispravno_cyr": "контраобавјештајни",
+    "neispravno_cyr": "контра обавјештајни",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "kooperacija",
+    "neispravno": "koperacija",
+    "ispravno_cyr": "кооперација",
+    "neispravno_cyr": "коперација",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "koordinacija",
+    "neispravno": "kordinacija",
+    "ispravno_cyr": "координација",
+    "neispravno_cyr": "кординација",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "korespondencija",
+    "neispravno": "korespodencija",
+    "ispravno_cyr": "кореспонденција",
+    "neispravno_cyr": "коресподенција",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "Kotor Varoš",
+    "neispravno": "Kotor varoš",
+    "ispravno_cyr": "Котор Варош",
+    "neispravno_cyr": "Котор варош",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "Kraljević Marko",
+    "neispravno": "kraljevć Marko",
+    "ispravno_cyr": "Краљевић Марко",
+    "neispravno_cyr": "краљевић Марко",
+    "pojasnjenje":""
+  },
+  {
+    "ispravno": "krojačicin",
+    "neispravno": "krojačičin",
+    "ispravno_cyr": "кројачицин",
+    "neispravno_cyr": "кројачичин",
+    "pojasnjenje":""
   }
 ]
