@@ -859,7 +859,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "švedski",
     "neispravno": "Švedski",
     "ispravno_cyr": "шведски",
@@ -867,7 +866,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "doći ću",
     "neispravno": "doćiću",
     "ispravno_cyr": "доћи ћу",
@@ -875,7 +873,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "doći ćete",
     "neispravno": "doćićete",
     "ispravno_cyr": "доћи ћете",
@@ -883,7 +880,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "u pravu",
     "neispravno": "upravu",
     "ispravno_cyr": "у праву",
@@ -891,7 +887,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "Ja bih",
     "neispravno": "Ja bi",
     "ispravno_cyr": "Ја бих",
@@ -899,7 +894,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "ići ćemo",
     "neispravno": "ićićemo",
     "ispravno_cyr": "ићи ћемо",
@@ -907,7 +901,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "bićemo",
     "neispravno": "bitićemo",
     "ispravno_cyr": "бићемо",
@@ -915,7 +908,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "bićete",
     "neispravno": "bitićete",
     "ispravno_cyr": "бићете",
@@ -1149,7 +1141,6 @@
     "pojasnjenje":""
   },
   {
-
     "ispravno": "gubici",
     "neispravno": "gubitci",
     "ispravno_cyr": "губици",
@@ -1165,7 +1156,6 @@
     "pojasnjenje":""
   },
   {
-
     "ispravno": "Daničin",
     "neispravno": "Danicin",
     "ispravno_cyr": "Даничин",
@@ -1173,7 +1163,6 @@
     "pojasnjenje":""
   },
   {
-
     "ispravno": "kraljičin",
     "neispravno": "kraljicin",
     "ispravno_cyr": "краљичин",
@@ -1181,7 +1170,6 @@
     "pojasnjenje":""
   },
   {
-
     "ispravno": "vodič",
     "neispravno": "vodić",
     "ispravno_cyr": "водич",
@@ -1189,7 +1177,6 @@
     "pojasnjenje":""
   },
   {
-
     "ispravno": "gonič",
     "neispravno": "gonić",
     "ispravno_cyr": "гонич",
@@ -1364,7 +1351,7 @@
     "neispravno_cyr": "кројачичин",
     "pojasnjenje":""
   },
-    {
+  {
     "ispravno": "laboratorija",
     "neispravno": "labaratorija",
     "ispravno_cyr": "лабораторија",
@@ -1408,7 +1395,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "nećete",
     "neispravno": "neće te",
     "ispravno_cyr": "нећете",
@@ -1424,7 +1410,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "davalac",
     "neispravno": "davaoc",
     "ispravno_cyr": "давалац",
@@ -1432,7 +1417,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "Fruška gora",
     "neispravno": "Fruška Gora",
     "ispravno_cyr": "Фрушка гора",
@@ -1440,7 +1424,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "gospođa gđa",
     "neispravno": "gospođa gđa.",
     "ispravno_cyr": "госпођа гђа",
@@ -1448,7 +1431,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "gđa",
     "neispravno": "gđa.",
     "ispravno_cyr": "гђа",
@@ -1456,7 +1438,6 @@
     "pojasnjenje": ""
   },
   {
-
     "ispravno": "sistematski",
     "neispravno": "sistemacki",
     "ispravno_cyr": "систематски",
